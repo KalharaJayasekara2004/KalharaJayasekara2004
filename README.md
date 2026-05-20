@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="Art Loop GIF by Pi-Slices" src="https://github.com/user-attachments/assets/a5039eb5-af2e-4aa7-b535-5c63f4818e38" /><h1 align="center">Hi👋, I'm Kalhara</h1>
+<h1 align="center">Hi👋, I'm Kalhara</h1>
 
 ###
 
