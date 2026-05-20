@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img width="500" height="500" alt="black and white falling GIF by Pi-Slices" src="https://github.com/user-attachments/assets/2091cbf9-764c-4324-a249-fa24e3e57413" />
+  <img width="300" height="300" alt="Art Loop GIF by Pi-Slices" src="https://github.com/user-attachments/assets/c17bdd77-e621-4162-966a-872e68c18ee7" />
 
 </div>
 
