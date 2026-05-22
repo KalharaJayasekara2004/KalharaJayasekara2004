@@ -3,8 +3,6 @@
 ###
 <div align="center">
 
-<img width="225" height="225" alt="3d GIF by haydiroket (Mert Keskin)" src="https://github.com/user-attachments/assets/6cd81c06-7da9-4fe0-b101-c7b708d9c483" />
-
 
 </div>
 
